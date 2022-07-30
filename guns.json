@@ -205,6 +205,10 @@
   ],
   "GUIDE":
   [
-    
+     {
+      "title":"Mengubah Tampilan Hero Akai",
+      "image":"file:///android_asset/images/akai.jpg",
+      "description":"https://executead.github.io/melonplay/carainstal.html"
+    }
   ]
 }
