@@ -195,19 +195,179 @@
   "SKINS-ORIGINAL":
   [
     {
-      "title": "Hero Akai Original",
-      "image": "file:///android_asset/images/akai.jpg",
-      "url_skins": "null",
-      "alterntif_url_skin": "null",
-      "size_skins": "15 MB",
-      "coins": 100
+      "title": "9x19mm SIDEARM",
+      "image": "https://executead.github.io/melonplay/guns/a1.png",
+      "url_skins": "https://executead.github.io/melonplay/guns/1.melmod",
+      "alterntif_url_skin": "https://executead.github.io/melonplay/guns/1.melmod",
+      "size_skins": "231 kb",
+      "coins": 1
+    },
+	{
+      "title": "228 COMPACT",
+      "image": "https://executead.github.io/melonplay/guns/a2.png",
+      "url_skins": "https://executead.github.io/melonplay/guns/2.melmod",
+      "alterntif_url_skin": "https://executead.github.io/melonplay/guns/2.melmod",
+      "size_skins": "221 kb",
+      "coins": 1
+    },
+	{
+      "title": "ak47",
+      "image": "https://executead.github.io/melonplay/guns/a3.png",
+      "url_skins": "https://executead.github.io/melonplay/guns/3.melmod",
+      "alterntif_url_skin": "https://executead.github.io/melonplay/guns/3.melmod",
+      "size_skins": "35 kb",
+      "coins": 1
+    },
+	{
+      "title": "BULLPUP",
+      "image": "https://executead.github.io/melonplay/guns/a4.png",
+      "url_skins": "https://executead.github.io/melonplay/guns/4.melmod",
+      "alterntif_url_skin": "https://executead.github.io/melonplay/guns/4.melmod",
+      "size_skins": "172 kb",
+      "coins": 1
+    },
+	{
+      "title": "CLARION 556",
+      "image": "https://executead.github.io/melonplay/guns/a5.png",
+      "url_skins": "https://executead.github.io/melonplay/guns/5.melmod",
+      "alterntif_url_skin": "https://executead.github.io/melonplay/guns/5.melmod",
+      "size_skins": "196 kb",
+      "coins": 1
+    },
+	{
+      "title": "CV-47",
+      "image": "https://executead.github.io/melonplay/guns/a6.png",
+      "url_skins": "https://executead.github.io/melonplay/guns/6.melmod",
+      "alterntif_url_skin": "https://executead.github.io/melonplay/guns/6.melmod",
+      "size_skins": "139 kb",
+      "coins": 1
+    },
+	{
+      "title": "D3 AU-1",
+      "image": "https://executead.github.io/melonplay/guns/a7.png",
+      "url_skins": "https://executead.github.io/melonplay/guns/7.melmod",
+      "alterntif_url_skin": "https://executead.github.io/melonplay/guns/7.melmod",
+      "size_skins": "139 kb",
+      "coins": 1
+    },
+	{
+      "title": "ES C90",
+      "image": "https://executead.github.io/melonplay/guns/a8.png",
+      "url_skins": "https://executead.github.io/melonplay/guns/8.melmod",
+      "alterntif_url_skin": "https://executead.github.io/melonplay/guns/8.melmod",
+      "size_skins": "194 kb",
+      "coins": 1
+    },
+	{
+      "title": "ES FIVE-SEVEN",
+      "image": "https://executead.github.io/melonplay/guns/a9.png",
+      "url_skins": "https://executead.github.io/melonplay/guns/9.melmod",
+      "alterntif_url_skin": "https://executead.github.io/melonplay/guns/9.melmod",
+      "size_skins": "203 kb",
+      "coins": 1
+    },
+	{
+      "title": "ES M249 PARA",
+      "image": "https://executead.github.io/melonplay/guns/a10.png",
+      "url_skins": "https://executead.github.io/melonplay/guns/10.melmod",
+      "alterntif_url_skin": "https://executead.github.io/melonplay/guns/10.melmod",
+      "size_skins": "1797 kb",
+      "coins": 1
+    },
+	{
+      "title": "IDF DEFENDER",
+      "image": "https://executead.github.io/melonplay/guns/a11.png",
+      "url_skins": "https://executead.github.io/melonplay/guns/11.melmod",
+      "alterntif_url_skin": "https://executead.github.io/melonplay/guns/11.melmod",
+      "size_skins": "189 kb",
+      "coins": 1
+    },
+	{
+      "title": "INGRAM MAC-10",
+      "image": "https://executead.github.io/melonplay/guns/a12.png",
+      "url_skins": "https://executead.github.io/melonplay/guns/12.melmod",
+      "alterntif_url_skin": "https://executead.github.io/melonplay/guns/12.melmod",
+      "size_skins": "148 kb",
+      "coins": 1
+    },
+	{
+      "title": "KM 45 TACTICAL",
+      "image": "https://executead.github.io/melonplay/guns/a13.png",
+      "url_skins": "https://executead.github.io/melonplay/guns/13.melmod",
+      "alterntif_url_skin": "https://executead.github.io/melonplay/guns/13.melmod",
+      "size_skins": "271 kb",
+      "coins": 1
+    },
+	{
+      "title": "KM SUB-MACHINE GUN",
+      "image": "https://executead.github.io/melonplay/guns/a14.png",
+      "url_skins": "https://executead.github.io/melonplay/guns/14.melmod",
+      "alterntif_url_skin": "https://executead.github.io/melonplay/guns/14.melmod",
+      "size_skins": "152 kb",
+      "coins": 1
+    },
+	{
+      "title": "KM UMP45",
+      "image": "https://executead.github.io/melonplay/guns/a15.png",
+      "url_skins": "https://executead.github.io/melonplay/guns/15.melmod",
+      "alterntif_url_skin": "https://executead.github.io/melonplay/guns/15.melmod",
+      "size_skins": "128 kb",
+      "coins": 1
+    },
+	{
+      "title": "Knife",
+      "image": "https://executead.github.io/melonplay/guns/a16.png",
+      "url_skins": "https://executead.github.io/melonplay/guns/16.melmod",
+      "alterntif_url_skin": "https://executead.github.io/melonplay/guns/16.melmod",
+      "size_skins": "179 kb",
+      "coins": 1
+    },
+	{
+      "title": "KRIEG 550 COMMANDO",
+      "image": "https://executead.github.io/melonplay/guns/a17.png",
+      "url_skins": "https://executead.github.io/melonplay/guns/17.melmod",
+      "alterntif_url_skin": "https://executead.github.io/melonplay/guns/17.melmod",
+      "size_skins": "265 kb",
+      "coins": 1
+    },
+	{
+      "title": "KRIEG 552 COMMANDO",
+      "image": "https://executead.github.io/melonplay/guns/a18.png",
+      "url_skins": "https://executead.github.io/melonplay/guns/18.melmod",
+      "alterntif_url_skin": "https://executead.github.io/melonplay/guns/18.melmod",
+      "size_skins": "220 kb",
+      "coins": 1
+    },
+	{
+      "title": "Leone 12 GAUGE",
+      "image": "https://executead.github.io/melonplay/guns/a19.png",
+      "url_skins": "https://executead.github.io/melonplay/guns/19.melmod",
+      "alterntif_url_skin": "https://executead.github.io/melonplay/guns/19.melmod",
+      "size_skins": "170 kb",
+      "coins": 1
+    },
+	{
+      "title": "LEONE YG1265",
+      "image": "https://executead.github.io/melonplay/guns/a20.png",
+      "url_skins": "https://executead.github.io/melonplay/guns/20.melmod",
+      "alterntif_url_skin": "https://executead.github.io/melonplay/guns/20.melmod",
+      "size_skins": "190 kb",
+      "coins": 1
+    },
+	{
+      "title": "M4",
+      "image": "https://executead.github.io/melonplay/guns/a21.png",
+      "url_skins": "https://executead.github.io/melonplay/guns/21.melmod",
+      "alterntif_url_skin": "https://executead.github.io/melonplay/guns/21.melmod",
+      "size_skins": "148 kb",
+      "coins": 1
     }
   ],
   "GUIDE":
   [
      {
-      "title":"Mengubah Tampilan Hero Akai",
-      "image":"file:///android_asset/images/akai.jpg",
+      "title":"How To Manual Instal",
+      "image":"https://executead.github.io/melonplay/guns/a21.png",
       "description":"https://executead.github.io/melonplay/carainstal.html"
     }
   ]
